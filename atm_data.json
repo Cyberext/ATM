@@ -1,0 +1,29 @@
+{
+    "Alice": {
+        "pin_hash": "af510cfe57c2f24b9362613efebda446f80a842954d9344552ee255c6293f095",
+        "salt": "1d59e97b21f71d2fe7c79225061515ffbef17be878070645a19e9f9a935d83ea",
+        "balance": "1500.0",
+        "account_type": "PREMIUM",
+        "history": [],
+        "daily_withdrawn": "0",
+        "last_withdrawal_date": null
+    },
+    "Bob": {
+        "pin_hash": "409511d6d3b326afbfa921fb4dacef4c78d5332ed403816734c99a47b3e93aa8",
+        "salt": "44a59c0f68b28be6c49d4ffc5df0cc42b36f83c429bbb9150a8265916c408552",
+        "balance": "800.0",
+        "account_type": "CHECKING",
+        "history": [],
+        "daily_withdrawn": "0",
+        "last_withdrawal_date": null
+    },
+    "Charlie": {
+        "pin_hash": "de738a4c6faba37149948a2948af0492693c9aecf8f36bfb0366910f59491d95",
+        "salt": "f1d9d423b2495b0a0ea3c277e61eb4375b5c508ca3909624ed0aa0867ddf9509",
+        "balance": "1200.0",
+        "account_type": "SAVINGS",
+        "history": [],
+        "daily_withdrawn": "0",
+        "last_withdrawal_date": null
+    }
+}
